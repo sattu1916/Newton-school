@@ -1,0 +1,2 @@
+# Newton-school
+all assignments
